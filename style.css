@@ -1,5 +1,6 @@
 body {
     background-color: #fafcf7;
+    background-image: url(https://cutewallpaper.org/27/blue-tiger-mac-wallpaper/316821600.jpg);
     color: #3C6E71;
     font-family: "Raleway";
     font-size: 17px;
@@ -34,8 +35,8 @@ div {
 }
 
 .container {
-    width: 500px;
-    margin: 0 auto;
+    width: 600px;
+    margin: 200px auto;
 }
 
 .card {
